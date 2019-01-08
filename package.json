@@ -58,5 +58,20 @@
     "wdio-selenium-standalone-service": "0.0.12",
     "wdio-spec-reporter": "^0.1.5",
     "webdriverio": "^4.14.1"
-  }
+  },
+  "description": "<p align=\"center\">",
+  "main": "wdio.conf.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs394-w19/foodfam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs394-w19/foodfam/issues"
+  },
+  "homepage": "https://github.com/cs394-w19/foodfam#readme"
 }
